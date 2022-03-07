@@ -1,0 +1,77 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Login with React JS",
+      "desc": "Description of task 1",
+      "date": "1/1/2001 00:00:00"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Creating api",
+      "desc": "Description of task 2",
+      "date": "1/1/2001 00:00:00"
+    },
+    {
+      "id": 4,
+      "userId": 2,
+      "title": "Login with Node JS",
+      "desc": "Description of task 1",
+      "date": "1/1/2001 00:00:00"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "title": "Creating api2",
+      "desc": "Description of task 2",
+      "date": "1/1/2001 00:00:00"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "title": "sdfasdf",
+      "desc": "sadfsdf",
+      "date": "3/2/2022 17:32:20"
+    }
+  ],
+  "users": [
+    {
+      "username": "ram",
+      "email": "ram@mail.in",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "rohit",
+      "email": "rohit@mail.in",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "arun",
+      "email": "arun@mail.in",
+      "password": "123"
+    },
+    {
+      "username": "ajay",
+      "email": "ajay@mail.in",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "vijay",
+      "email": "vijay@mail.in",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "pankaj",
+      "email": "pankaj@mail.in",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
